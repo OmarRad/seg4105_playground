@@ -8,10 +8,10 @@
 - Promotes project ownership by allowing teams to take on projects from start to finish rather than tickets
 
 ## Things I dislike:
-- unfamiliar unnecessary terminology
+- Unfamiliar unnecessary terminology
 - Complexity of diagrams
-- lack of flexibility on the 6 week time restriction
-- focus on big picture may cause issues in some project-defining details
+- Lack of flexibility on the 6 week time restriction
+- Focus on big picture may cause issues in some project-defining details
 - 6 weeks feels too long. I like short sprints that allow me to reach shorter milestones and feel myself acheiving some sort of progress even if small that will help keep me going.
 
 ## Open-ended questions:
