@@ -1,5 +1,4 @@
-### Omar Radwan Mohsen, 300013569
-# SEG4105 Lab 3
+# Omar Radwan Mohsen, 300013569, Lab03 Shape Up
 
 ## Things I like:
 - That the book acknowledges the idea of projects going on and on with no end in sight as this is something that I personally experienced.
