@@ -1,0 +1,3 @@
+# Omar Radwan Mohsen, 300013569, Lab07 Stand Ups
+## Standup
+Today, I worked on creating the hamburger menu for the drone monitoring list. Tomorrow I will work on implementing the contents of the Active Jobs list within the menu from incoming drone data. Since it's a separate feature, it should not be blocking anyone from completing their work. After completing the user interface of my feature, I will have to await the completion of the websockets feature in order to have real data to test out my feature with. My team meets once a week for 30 minutes for a weekly stand-up and to work together through any issues.
